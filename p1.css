@@ -1,0 +1,14 @@
+.lin{
+  color: green;
+}
+.info{
+color: yellow;
+font-style: italic;
+ text-decoration:underline;
+}
+.pic{
+  height: 400px;
+  width:100%;
+  object-fit: fill;
+}
+
